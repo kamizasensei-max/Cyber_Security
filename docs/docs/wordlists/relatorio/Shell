@@ -1,0 +1,7 @@
+mkdir projeto-medusa-lab
+cd projeto-medusa-lab
+
+mkdir docs
+mkdir evidencias
+mkdir wordlists
+mkdir relatorio
