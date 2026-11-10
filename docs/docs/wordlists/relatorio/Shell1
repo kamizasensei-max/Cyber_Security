@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Entrega do projeto Kali Linux e Medusa"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/projeto-medusa-lab.git
+git push -u origin main
