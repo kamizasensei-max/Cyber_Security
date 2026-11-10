@@ -1,0 +1,10 @@
+admin
+administrator
+guest
+user
+teste
+empresa123
+senha123
+abc123
+welcome
+password
